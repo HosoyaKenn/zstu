@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 2b65987152271dc42855e8ea1accc0e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4324917348706979286
+    second: stagdoor_0000_Color-Balance-1-copy-3_0
+  - first:
+      213: -8592887586119078283
+    second: stagdoor_0000_Color-Balance-1-copy-3_1
+  - first:
+      213: -3752349275783415426
+    second: stagdoor_0000_Color-Balance-1-copy-3_2
+  - first:
+      213: -7676068702634378075
+    second: stagdoor_0000_Color-Balance-1-copy-3_3
+  - first:
+      213: 8617534237596031193
+    second: stagdoor_0000_Color-Balance-1-copy-3_4
+  - first:
+      213: 1056376602338812919
+    second: stagdoor_0000_Color-Balance-1-copy-3_5
+  - first:
+      213: -6854857659286533587
+    second: stagdoor_0000_Color-Balance-1-copy-3_6
+  - first:
+      213: 3613025525237372620
+    second: stagdoor_0000_Color-Balance-1-copy-3_7
+  - first:
+      213: -4767891466426227820
+    second: stagdoor_0000_Color-Balance-1-copy-3_8
+  - first:
+      213: -1427605257111366177
+    second: stagdoor_0000_Color-Balance-1-copy-3_9
+  - first:
+      213: 1895042790714735034
+    second: stagdoor_0000_Color-Balance-1-copy-3_10
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 522
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8a9c0a61350c30800000000000000
+      internalID: 4324917348706979286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e228a744eefb880800000000000000
+      internalID: -8592887586119078283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e793cb7e63afcebc0800000000000000
+      internalID: -3752349275783415426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 425
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acfbfb3f20297590800000000000000
+      internalID: -7676068702634378075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d89daf3bb1a79770800000000000000
+      internalID: 8617534237596031193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 326
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f360734ce009ae00800000000000000
+      internalID: 1056376602338812919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a4c580747aed0a0800000000000000
+      internalID: -6854857659286533587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 225
+        width: 111
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65134929b042230800000000000000
+      internalID: 3613025525237372620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4936c0009fb05ddb0800000000000000
+      internalID: -4767891466426227820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 130
+        width: 112
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5956a1590203ce0800000000000000
+      internalID: -1427605257111366177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stagdoor_0000_Color-Balance-1-copy-3_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab977b6b06b8c4a10800000000000000
+      internalID: 1895042790714735034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
